@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/joe-quintero/FestivalMusica_inicio/issues"
   },
-  "homepage": "https://github.com/joe-quintero/FestivalMusica_inicio#readme"
+  "homepage": "https://github.com/joe-quintero/FestivalMusica_inicio#readme",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
 }
